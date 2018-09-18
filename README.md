@@ -1,3 +1,9 @@
+# 2018-DC-“达观杯”文本智能处理挑战赛
+
+非常荣幸能够参与[“达观杯”文本智能处理挑战赛](http://www.dcjingsai.com/common/cmpt/%E2%80%9C%E8%BE%BE%E8%A7%82%E6%9D%AF%E2%80%9D%E6%96%87%E6%9C%AC%E6%99%BA%E8%83%BD%E5%A4%84%E7%90%86%E6%8C%91%E6%88%98%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)并取得了冠军的成绩，以下是我们队伍 __TNT\_000\_（[涛哥](https://github.com/AbnerYang)、鹏哥、我、嘉伟和小菲）__ 的解决方案（答辩 PPT），感谢您的阅读！
+
+## 解决方案
+
 <p align="center">
 	<img src="pic/幻灯片1.JPG">
 </p>
