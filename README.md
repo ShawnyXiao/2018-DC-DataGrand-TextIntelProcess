@@ -1,5 +1,3 @@
-# “达观杯”文本智能处理挑战赛
-
 <p align="center">
 	<img src="pic/幻灯片1.JPG">
 </p>
